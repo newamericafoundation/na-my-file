@@ -9,7 +9,7 @@ This repository contains the deployment scripts for the My File platform and ser
 ## Repository Contents
 
 - Deployment scripts for the complete My File platform
-- Documentation source files
+- Wiki Pages for the My File project
 
 ## Related Repositories
 

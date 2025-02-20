@@ -1,8 +1,8 @@
-# My File - Deployment Scripts
+# My File
 
-Please visit our [Wiki](https://github.com/newamericafoundation/na-my-file/wiki)!
+Please visit our [Wiki](https://github.com/newamericafoundation/na-my-file/wiki), the My File documentation hub to learn more about the project and how to use, deploy, or modify the solution. 
 
-## My File Scripts
+## My File Deployment Scripts
 
 This repository contains the deployment scripts for the My File platform and serves as the central documentation hub. For comprehensive information about My File, including what it is, how to use it, and detailed technical documentation, please visit our [Wiki](https://github.com/newamericafoundation/na-my-file/wiki).
 

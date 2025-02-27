@@ -4,6 +4,8 @@ My File is a mobile-first, open-source platform designed for secure document sto
 
 Please visit our [Wiki](https://github.com/newamericafoundation/na-my-file/wiki), the My File documentation hub to learn more about the project and how to use, deploy, or modify the solution. 
 
+[My File: A Collaborative and Open-Source Approach to Transforming Public Service Delivery](https://www.newamerica.org/digital-impact-governance-initiative/reports/my-file-proof-of-concept/) contains key insights about what we learned across various stages of development, solutions to common product development challenges, and paths for replication. 
+
 ## My File Deployment Scripts
 
 This repository contains the deployment scripts for the My File platform and serves as the central documentation hub. For comprehensive information about My File, including what it is, how to use it, and detailed technical documentation, please visit our [Wiki](https://github.com/newamericafoundation/na-my-file/wiki).
